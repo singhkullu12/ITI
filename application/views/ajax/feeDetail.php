@@ -707,7 +707,6 @@ $fee = $fee1->row();
 					<?php 
 								endif;
 							endforeach;
-					
 					?>
 
 					<?php if($stock_balenc->num_rows() > 0):?>
