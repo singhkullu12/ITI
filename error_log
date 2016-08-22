@@ -1,0 +1,2 @@
+[09-Mar-2015 13:27:22 Asia/Calcutta] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/hwebsdwc/public_html/trinitykerala.com/application/controllers/login.php on line 28
+[09-Mar-2015 13:27:40 Asia/Calcutta] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/hwebsdwc/public_html/trinitykerala.com/application/controllers/login.php on line 28
